@@ -1,0 +1,5 @@
+C:\NewDev\NPIR Centura\NPIRCentura\NPIRCentura\SharpPieces.Web.Controls\bin\Debug\SharpPieces.Web.Controls.dll
+C:\NewDev\NPIR Centura\NPIRCentura\NPIRCentura\SharpPieces.Web.Controls\bin\Debug\SharpPieces.Web.Controls.pdb
+C:\NewDev\NPIR Centura\NPIRCentura\NPIRCentura\SharpPieces.Web.Controls\obj\Debug\ResolveAssemblyReference.cache
+C:\NewDev\NPIR Centura\NPIRCentura\NPIRCentura\SharpPieces.Web.Controls\obj\Debug\SharpPieces.Web.Controls.dll
+C:\NewDev\NPIR Centura\NPIRCentura\NPIRCentura\SharpPieces.Web.Controls\obj\Debug\SharpPieces.Web.Controls.pdb
